@@ -1,5 +1,8 @@
 # A-Rappers-Delight
-In Depth Lyric Analysis of ___ Rappers and ____ different songs
+In Depth Lyric Analysis of ___ Rappers and ____ different songs, along with ____ total words
+
+UNIQUE WORDS USED WITHIN AN ARTISTS FIRST 20K WORDS, GROUPED BY GENRE
+![lyricsOverTime](Screenshots/lyricsOverTime.png)
 
 This scrapes the top 250ish rappers on ___INSERT LINK___, downloads lyrics to their top songs,
 and stores in Json files. We currenly store the data of ___ artists, and a total of ____ songs.
