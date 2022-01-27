@@ -1,15 +1,18 @@
 # A-Rappers-Delight
-In Depth Lyric Analysis of ___ Rappers and ____ different songs, along with ____ total words
+In Depth Lyric Analysis of 211 Rappers and 32,384 different songs, along with 17,407,258 total words
 
 UNIQUE WORDS USED WITHIN AN ARTISTS FIRST 20K WORDS, GROUPED BY GENRE
 ![lyricsOverTime](Screenshots/lyricsOverTime.png)
 
-This scrapes the top 250ish rappers on ___INSERT LINK___, downloads lyrics to their top songs,
-and stores in Json files. We currenly store the data of ___ artists, and a total of ____ songs.
+This scrapes the top 250ish rappers on https://www.ranker.com/crowdranked-list/the-greatest-rappers-of-all-time, downloads lyrics to their top songs,
+and stores in Json files. We currenly store the data of 211 artists, and a total of 32,384 songs.
 
 I also added in rap groups such as Outkast, NWA, Wu Tang Clan, A Tribe Called Quest, etc because the
 website ranked solo rappers only. Though rappers such as Andre 3000, Dr. Dre, RZA, etc were on the list,
 I felt it was equally important to include their respective groups
+
+NOTABLE PEOPLE MISSING (DUE TO SCRAPING ISSUES):
+ 'The Notorious B.I.G.', 'Dr. Dre', 'Chance the Rapper', 'Rakim', 'DMC',
 
 
 RATING THE VOCABULARY OF SONGS:
