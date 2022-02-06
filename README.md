@@ -24,13 +24,10 @@ USE OF CERTAIN KEYWORDS OVERTIME:
 ![lyricsOverTime](Screenshots/love.png)
 ![lyricsOverTime](Screenshots/girl.png)
 
-RATING THE TONE OF SONGS:
-    The function get_tone() gets the tone of each song and returns the most positive 
-    and negative songs, along with their score. To do this, I used AFINN
 
-AFINN is a list of English words rated for valence with an integer
-between minus five (negative) and plus five (positive). The words have
-been manually labeled by Finn Årup Nielsen in 2009-2011. 
+
+The function get_tone() gets the tone of each song and returns the most positive 
+    and negative songs, along with their score. To do this, I used AFINN. AFINN is a list of English words rated for valence with an integer between minus five (negative) and plus five (positive). The words have been manually labeled by Finn Årup Nielsen in 2009-2011. 
 
 It's slightly flawed, words like (pardon my french) fuck and bitch are rated at -4 and -5, hard to use in context. Changing them
 moves the most negative song around quite a bit. It would be better to use an AI to determine positivity
