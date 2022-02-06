@@ -19,6 +19,11 @@ RATING THE VOCABULARY OF SONGS:
  UNIQUE WORDS USED WITHIN AN ARTISTS FIRST 20K WORDS, GROUPED BY GENRE
 ![lyricsOverTime](Screenshots/lyricsOverTime.png)
 
+USE OF CERTAIN KEYWORDS OVERTIME:
+![lyricsOverTime](Screenshots/pandemic.png)
+![lyricsOverTime](Screenshots/love.png)
+![lyricsOverTime](Screenshots/girl.png)
+
 RATING THE TONE OF SONGS:
     The function get_tone() gets the tone of each song and returns the most positive 
     and negative songs, along with their score. To do this, I used AFINN
